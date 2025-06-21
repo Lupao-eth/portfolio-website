@@ -36,7 +36,7 @@ export default function ExperiencesSection() {
           <h3 className="section-subtitle">Education</h3>
           <ul className="education-list">
             <li>
-              Bachelor of Industrial Technology Major in Computer Technology - Bulacan State University (2023 - 2024)
+              Bachelor of Industrial Technology Major in Computer Technology - Bulacan State University (2021 - 2025)
             </li>
             <li>
               Science, Technology, Engineering, & Mathematics STEM - Dr. Yangas Colleges (2019 - 2021)
